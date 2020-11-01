@@ -14,12 +14,6 @@
 
 ## Projekt anlegen
 
-<style>
-    img {
-        flex: 1
-    }
-</style>
-
 <div style="display:flex;flex-wrap:wrap;">
     <img src="./steps/1.png" width="500px"/>
     <img src="./steps/2.png" width="500px"/>
