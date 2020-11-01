@@ -1,0 +1,22 @@
+POST https://firestore.googleapis.com/v1/projects/iibb-swe-ws20-fe515/databases/(default)/documents/sample HTTP/1.1
+content-type: application/json
+
+{
+    "fields": {
+        "lorem": {
+            "stringValue": "ipsum"
+        },
+        "dolor": {
+            "arrayValue": {
+                "values": [
+                    {
+                        "stringValue": "sit"
+                    },
+                    {
+                        "stringValue": "amet"
+                    }
+                ]
+            }
+        }
+    }
+}

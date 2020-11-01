@@ -1,0 +1,10 @@
+PATCH  https://firestore.googleapis.com/v1/projects/iibb-swe-ws20-fe515/databases/(default)/documents/sample/YRbrPeTIgdR1rjCWwAW0?updateMask.fieldPaths=lorem HTTP/1.1
+content-type: application/json
+
+{
+    "fields": {
+        "lorem": {
+            "stringValue": "ipsum v2"
+        }
+    }
+}
