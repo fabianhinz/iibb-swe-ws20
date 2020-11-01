@@ -1,0 +1,1 @@
+DELETE https://firestore.googleapis.com/v1/projects/iibb-swe-ws20-fe515/databases/(default)/documents/sample/gxgtzP8eEKdTtVz1pEwK HTTP/1.1
