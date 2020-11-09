@@ -1,4 +1,4 @@
-# Firebase - Firestore 
+# javascript
 
 ## Voraussetzungen
 
@@ -9,6 +9,7 @@
 
 ## Ausführung von JavaScript 
 
+1. Einmnalig ausführen von `npm install`
 1. öffnen der Datei `index.js`
 1. Quokka starten ![](./startQuokka.png)
 1. **optional** debuggen ![](./startDebugging.png)
