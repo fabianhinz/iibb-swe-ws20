@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "(1) hello world"
+        },
+        {
+            "path": "(2) components"
+        },
+        {
+            "path": "(3) routing"
+        },
+        {
+            "path": "(4) context"
+        },
+        {
+            "path": "(5) complex routing"
+        },
+        {
+            "path": "(6) hooks"
+        }
+    ],
+    "settings": {}
+}
